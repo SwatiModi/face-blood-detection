@@ -1,0 +1,5 @@
+The folders are as follows:
+
+1. Blood : Faces contaning blood
+2. NoBlood : Faces not containing blood
+3. Faces: Contains cropped images of faces 
